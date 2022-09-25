@@ -7,7 +7,7 @@ I hold a B.S. in Mathematics from South Carolina State University.
 ### ✨ I’m currently working on:
 - REST API using Django & Postrges
 
-### ✨ Recent Projects:
+### ✨ Recent Personal & School Projects:
 *Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request*
 - [Court Eviction Record Web Scraper using Selenium](https://github.com/sashafilippova/eviction_filings_scraper)
 - [Chicago Urban Development Explorer app](https://github.com/sashafilippova/urban_development_explorer/tree/main)
