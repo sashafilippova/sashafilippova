@@ -12,7 +12,7 @@ I hold a B.S. in Mathematics from South Carolina State University.
 - [Court Eviction Record Web Scraper using Selenium](https://github.com/sashafilippova/eviction_filings_scraper)
 - [Chicago Urban Development Explorer app](https://github.com/sashafilippova/urban_development_explorer/tree/main)
 - [Classifying Fake News with NLP](https://github.com/sashafilippova/classifying_fake_news_nlp)
-- [REST API with Flask & Sqlite](https://github.com/sashafilippova/restinsp-we_are_cool)
+- REST API with Flask & Sqlite
 - Course Search Engine (backend)
 - Fuzzy Matching Algorithms 
 - Speech Recognition using Markov Models
