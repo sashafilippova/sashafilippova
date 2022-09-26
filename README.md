@@ -5,7 +5,7 @@ My name is Sasha, and I'm an M.S. candidate in [CS + Public Policy](https://capp
 I hold a B.S. in Mathematics from South Carolina State University. 
 
 ### ✨ I’m currently working on:
-- REST API using Django & Postrges
+- [REST API using Django & Postrges](https://github.com/sashafilippova/eviction_scraper)
 
 ### ✨ Recent Personal & School Projects:
 *Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request*
