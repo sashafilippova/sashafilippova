@@ -11,7 +11,7 @@ I hold a B.S. in Mathematics from South Carolina State University.
 *Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request*
 - [Court Eviction Record Web Scraper using Selenium](https://github.com/sashafilippova/eviction_filings_scraper)
 - [Chicago Urban Development Explorer app](https://github.com/sashafilippova/urban_development_explorer/tree/main)
-- [Classifying Fake News with NLP](https://github.com/sashafilippova/classifying_fake_news_nlp)
+- [Classifying Fake News with NLP](https://github.com/sashafilippova/nlp_fake_news_classification)
 - REST API with Flask & Sqlite
 - Course Search Engine (backend)
 - Fuzzy Matching Algorithms 
