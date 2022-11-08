@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sasha, and I'm an M.S. candidate in [CS + Public Policy](https://capp.uchicago.edu/) (MSCAPP) at the University of Chicago, graduating in the spring '23. I am currently working as a Data Analytics consultant for [the Children's Trust](https://www.thechildrenstrust.org/) supporting their research department with data needs. In the 2022 summer, I was a Data Science/Data Engineering Fellow at the City of Cincinnati through [Coding it Forward](https://www.codingitforward.com/). 
+My name is Sasha, and I'm an M.S. candidate in [CS + Public Policy](https://capp.uchicago.edu/) (MSCAPP) at the University of Chicago, graduating in the spring '23. I am currently working as a Data Analytics consultant for [the Children's Trust](https://www.thechildrenstrust.org/) supporting their research department with data needs. In the 2022 summer, I was a Data Engineering Fellow at the City of Cincinnati through [Coding it Forward](https://www.codingitforward.com/). 
 
 I hold a B.S. in Mathematics from South Carolina State University. 
 
