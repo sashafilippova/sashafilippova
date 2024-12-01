@@ -1,21 +1,8 @@
 ### Hi there 👋
 
-My name is Sasha, and I'm an M.S. candidate in [CS + Public Policy](https://capp.uchicago.edu/) (MSCAPP) at the University of Chicago, graduating in the spring '23. I am currently working as a Data Analytics consultant for [the Children's Trust](https://www.thechildrenstrust.org/) supporting their research department with data needs. In the 2022 summer, I was a Data Engineering Fellow at the City of Cincinnati through [Coding it Forward](https://www.codingitforward.com/). 
+My name is Sasha, and I'm a Data Engineer at the City of New York (work GH account [here](https://github.com/sf-dcp)). 
 
-I hold a B.S. in Mathematics from South Carolina State University. 
-
-### ✨ I’m currently working on:
-- [REST API using Django & Postrges](https://github.com/sashafilippova/eviction_scraper)
-
-### ✨ Recent Personal & School Projects:
-*Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request*
-- [Court Eviction Record Web Scraper using Selenium](https://github.com/sashafilippova/eviction_filings_scraper)
-- [Chicago Urban Development Explorer app](https://github.com/sashafilippova/urban_development_explorer/tree/main)
-- [Classifying Fake News with NLP](https://github.com/sashafilippova/nlp_fake_news_classification)
-- REST API with Flask & Sqlite
-- Course Search Engine (backend)
-- Fuzzy Matching Algorithms 
-- Speech Recognition using Markov Models
+I hold a M.S. degree in [CS + Public Policy](https://capp.uchicago.edu/) (MSCAPP) from the University of Chicago and a B.S. in Mathematics from South Carolina State University. 
 
 ### ✨ Connect with me: 
 [LinkedIn](https://www.linkedin.com/in/sasha-filippova-56537914a/)
